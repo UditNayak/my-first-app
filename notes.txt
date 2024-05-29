@@ -1,0 +1,7 @@
+React is the pre-requisite to NextJs
+1. Understanding the DOM and Making Dynamic Websites
+    - What are dynamic Websites.
+    - How are they different from static Websites
+    - How up untill react was introduced it was very hard to write to dynamic Websites
+2. Understanding Reconciliation & How React works Under the Hood
+    
